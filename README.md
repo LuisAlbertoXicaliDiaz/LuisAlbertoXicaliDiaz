@@ -1,8 +1,7 @@
-
-<!-- ═══════════════ BANNER ANIMADO ═══════════════ -->
+ <!-- ═══════════════ BANNER ANIMADO ═══════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=LUIS%20XICALI&fontSize=65&fontColor=ffffff&stroke=00F5FF&strokeWidth=2&animation=fadeIn&fontAlignY=42&desc=DESARROLLO%20DE%20SOFTWARE%20%7C%20FULL-STACK%20%7C%20MOBILE&descSize=15&descAlignY=62&color=0:090014,25:240046,55:5A189A,80:0077B6,100:00B4D8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=LUIS%20ALBERTO%20XICALI%20DIAZ&fontSize=42&fontColor=ffffff&stroke=00F5FF&strokeWidth=2&animation=fadeIn&fontAlignY=40&desc=DESARROLLO%20DE%20SOFTWARE%20%7C%20FULL-STACK%20%7C%20MOBILE&descSize=14&descAlignY=60&color=0:090014,25:240046,55:5A189A,80:0077B6,100:00B4D8" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2400&pause=650&color=00F5FF&center=true&vCenter=true&width=800&height=55&lines=%3E+Transformando+ideas+en+software;Full-Stack+%7C+Aplicaciones+m%C3%B3viles;QA+%7C+Automatizaci%C3%B3n+%7C+Unity+3D;El+c%C3%B3digo+es+mi+herramienta%2C+crear+es+mi+objetivo." />
 
@@ -31,51 +30,48 @@
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-  ¡Hola, soy Luis Alberto!
+  ¡Hola! Soy Luis Alberto Xicali Díaz
 </h2>
 
 <div align="center">
 
 ### 💜 Desarrollador de software en constante evolución
 
-*Me gusta convertir ideas en soluciones digitales, aprender nuevas tecnologías y construir proyectos que resuelvan problemas reales.*
+*Me apasiona transformar ideas en soluciones digitales, aprender nuevas tecnologías y desarrollar proyectos que resuelvan problemas reales.*
+
+📍 **Puebla, México 🇲🇽**
 
 </div>
 
-```typescript
-const luisXicali = {
-    nombre: "Luis Alberto Xicali Díaz",
-    ubicacion: "Puebla, México 🇲🇽",
+<h3>🎓 Formación académica</h3>
 
-    formacion: [
-        "Ingeniería en Desarrollo y Gestión de Software",
-        "TSU en Desarrollo de Software Multiplataforma"
-    ],
+- 🎓 Ingeniería en Desarrollo y Gestión de Software
+- 💻 TSU en Desarrollo de Software Multiplataforma
 
-    experiencia: "Junior QA Analyst Intern — eScire México",
+<h3>💼 Experiencia profesional</h3>
 
-    enfoque: [
-        "Desarrollo Full-Stack",
-        "Aplicaciones móviles multiplataforma",
-        "Calidad y pruebas de software",
-        "Videojuegos y experiencias 3D"
-    ],
+- 🔍 **Junior QA Analyst Intern — eScire México**
+- 🧪 Experiencia orientada al aseguramiento de calidad, validación de software y pruebas.
 
-    filosofia: "Aprender, construir y mejorar 🚀"
-};
-```
-
-<br/>
+<h3>🚀 Mis áreas de interés</h3>
 
 <div align="center">
 
 | 🌐 Desarrollo web | 📱 Aplicaciones móviles |
 |:---:|:---:|
-| Interfaces, servicios y aplicaciones completas | Experiencias multiplataforma |
+| Desarrollo Full-Stack y aplicaciones web | Soluciones multiplataforma |
 
 | 🔍 Calidad de software | 🎮 Desarrollo interactivo |
 |:---:|:---:|
-| Pruebas, validación y detección de errores | Unity, C# y entornos 3D |
+| Pruebas, validación y detección de errores | Unity, C# y experiencias 3D |
+
+</div>
+
+<div align="center">
+
+<br/>
+
+> 💡 *Aprender, construir y mejorar. Cada proyecto es una oportunidad para crecer como desarrollador.*
 
 </div>
 
@@ -133,7 +129,7 @@ Creación de aplicaciones multiplataforma con Flutter y Dart.
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,vscode,visualstudio&theme=dark" />
 </p>
 
-Gestión de datos, control de versiones, pruebas de API y herramientas para el desarrollo.
+Gestión de datos, control de versiones, pruebas de API y herramientas para el desarrollo de software.
 
 <h3>
   <img src="https://img.shields.io/badge/05-Quality-7B2CBF?style=flat-square" />
@@ -175,8 +171,6 @@ Aquí encontrarás proyectos en los que aplico mis conocimientos de desarrollo, 
 
 <br/><br/>
 
-<!-- Puedes añadir aquí tarjetas de tus repositorios más importantes -->
-
 <a href="https://github.com/LuisAlbertoXicaliDiaz/CoLabTy">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAlbertoXicaliDiaz&repo=CoLabTy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=FF4D9D" />
 </a>
@@ -211,7 +205,7 @@ Aquí encontrarás proyectos en los que aplico mis conocimientos de desarrollo, 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=FF4D9D&center=true&vCenter=true&width=650&height=45&lines=%2F%2F+El+pr%C3%B3ximo+proyecto+comienza+con+una+idea.;%3Ccode%3E+Aprender.+Construir.+Innovar.+%3C%2Fcode%3E" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=FF4D9D&center=true&vCenter=true&width=700&height=45&lines=%2F%2F+El+pr%C3%B3ximo+proyecto+comienza+con+una+idea.;%3Ccode%3E+Aprender.+Construir.+Innovar.+%3C%2Fcode%3E" />
 
 ### 💜 Gracias por visitar mi perfil
 
@@ -228,4 +222,3 @@ Aquí encontrarás proyectos en los que aplico mis conocimientos de desarrollo, 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:0077B6,100:00F5FF&height=110&section=footer"/>
-
