@@ -1,61 +1,35 @@
-# ¡Hola! Soy Luis Alberto Xicali Díaz 👋
-
-🚀 **Ingeniero en Desarrollo y Gestión de Software** en formación | **TSU en Desarrollo de Software Multiplataforma**  
-💻 Apasionado por el desarrollo Full-Stack, aplicaciones móviles, videojuegos en Unity y aseguramiento de calidad (QA).  
-📍 Puebla, México
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-**Lenguajes:**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Frameworks, Librerías y Motores:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
-**Bases de Datos y Cloud:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**DevOps, QA & Herramientas:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 🚀 Proyectos Destacados
-
-* 💼 **[Talentry](https://github.com/LuisAlbertoXicaliDiaz/Talentry)** — Plataforma web progresiva (PWA) para gestión y conexión de talento.
-* 🤖 **Escape de la Fábrica** — Prototipo de videojuego 3D de acción y plataformas desarrollado en Unity con C#.
-* 🕵️‍♂️ **IG Hunter Pro** — Utilidad de escritorio en Python para análisis local de seguidores en Instagram.
-* 📱 **[Aplicacion_Habitos](https://github.com/LuisAlbertoXicaliDiaz/Aplicacion_Habitos)** — Aplicación móvil desarrollada en Dart/Flutter para el seguimiento de hábitos.
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
+<!-- ENCABEZADO ANIMADO CON ONDAS Y GRADIENTE -->
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisAlbertoXicaliDiaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAlbertoXicaliDiaz&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Luis%20Alberto%20Xicali%20D%C3%ADaz&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Ingeniero%20de%20Software%20%7C%20Full-Stack%20%7C%20Game%20Dev%20%7C%20QA&descAlignY=58&descSize=18" />
 </div>
 
+<!-- EFECTO MÁQUINA DE ESCRIBIR (TYPING SVG) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=%F0%9F%92%BB+Desarrollador+Full-Stack+%26+M%C3%B3vil+Multiplataforma;%F0%9F%8E%AE+Creador+de+Experiencias+3D+en+Unity+con+C%23;%F0%9F%94%8D+QA+Analyst+%7C+Automatizaci%C3%B3n+y+Calidad+de+Software" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- BADGES DE REDES Y ESTADO CON ESTILO NEÓN -->
+<p align="center">
+  <a href="https://linkedin.com/in/TU-USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tu-correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=LuisAlbertoXicaliDiaz&label=Vistas%20al%20Perfil&color=a855f7&style=for-the-badge" alt="Vistas" />
+</p>
+
 ---
 
-### 📫 Contacto
-* **LinkedIn:** [Tu enlace de LinkedIn aquí]
-* **Correo:** [Tu correo profesional aquí]
+### ⚡ Sobre Mí
+
+```yaml
+name: Luis Alberto Xicali Díaz
+ubicacion: Puebla, México 🇲🇽
+educacion: 
+  - Ingeniería en Desarrollo y Gestión de Software @ UTP
+  - TSU en Desarrollo de Software Multiplataforma @ UTP
+roles_actuales: [Full-Stack Developer, Mobile Dev, Unity 3D Developer, QA Analyst]
+enfoque_actual: "Construyendo aplicaciones web progresivas, herramientas en Python y videojuegos en Unity."
