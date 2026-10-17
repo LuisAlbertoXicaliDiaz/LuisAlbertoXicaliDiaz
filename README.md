@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/TU-USUARIO">
 <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:TU-CORREO@EJEMPLO.COM">
+<a href="mailto:luis.xicali.diaz@gmail.com">
 <img src="https://img.shields.io/badge/Email-Cont%C3%A1ctame-DB2777?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
